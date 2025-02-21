@@ -1,4 +1,4 @@
-# shivam1908.github.io
+# shivam1908
 # Hi there, I'm Shivam Mahajan 👋
 
 I am a passionate Data Enthusiast and Data Engineer with a strong background in designing, developing, and maintaining scalable data solutions. I thrive on turning raw data into actionable insights and leveraging technology to drive business decisions.
