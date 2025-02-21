@@ -26,5 +26,5 @@ I am a passionate Data Enthusiast and Data Engineer with a strong background in 
 - **Description**: Designed Power BI dashboards featuring Drillthrough, Bookmarks, Sparklines, and custom APIs to empower business stakeholders with actionable insights. Implemented row-level security (RLS) and advanced data modeling techniques for secure and accurate data access. Utilized Parameters, Gauge Charts, and parameter slicers for dynamic scenario analysis and KPI tracking.
 
 📫 **Let's Connect**
-- **LinkedIn**: shivam2212
-- **Git**: 
+- **LinkedIn**: [shivam2212](https://www.linkedin.com/in/shivam2212/)
+
