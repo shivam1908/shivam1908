@@ -38,22 +38,41 @@ With a strong foundation in **SQL, Python, PySpark, Power BI**, and **Azure**, I
 
 ---
 
-## 📁 Project Portfolio Overview
+## 📂 Project Portfolio Overview
 
-Explore different categories of projects in this repository:
+This GitHub showcases curated projects across real-world domains. Here's a breakdown:
 
 ### 🔹 [Power BI Reports](https://github.com/shivam1908/powerBI-Reporting)
-Interactive business dashboards for real-world domains such as retail, music streaming, and executive performance. Built using Power BI, DAX, and Power Query.  
-> 📊 Examples: AdventureWorks KPI Dashboard, Spotify Music Analytics, Maven Market Sales Report
+📈 Dashboards for business performance, product analysis, and executive reporting  
+> Includes:  
+> - **AdventureWorks KPI Dashboard** – Regional sales, targets, and product margin analysis  
+> - **Spotify Audio Feature Analytics** – Music trends by genre, mood, and energy  
+> - **Maven Market Insights** – Brand-level performance with profit and return rate tracking
 
-### 🔹 [Python & Data Analysis Scripts](https://github.com/shivam1908?tab=repositories&q=python&type=&language=)
-Standalone Python notebooks and scripts for data preprocessing, visualization, ETL logic, and analytics workflows using **pandas**, **matplotlib**, and **PySpark**.
-
-### 🔹 [Azure Projects](https://github.com/shivam1908?tab=repositories&q=azure&type=&language=)
-End-to-end data pipelines and architecture implemented on **Azure Synapse**, **Data Lake**, and **Databricks**, demonstrating modern data engineering and Lakehouse concepts.  
-> 🧪 Projects include: NYC Taxi Data Lakehouse, Formula 1 Analytics Pipeline
+➡️ Each report includes a `.pbix` file and a detailed `README.md` with KPIs, filters, and screenshots.
 
 ---
+
+### 🔹 [Python & Analytics Scripts](https://github.com/shivam1908?tab=repositories&q=python)
+🧪 Code notebooks for data wrangling, cleaning, EDA, and visualization  
+> Tools: `Pandas`, `Matplotlib`, `Seaborn`, `PySpark`, `NumPy`  
+> Focused on:  
+> - Dataset profiling and preprocessing  
+> - Exploratory insights for reporting layers  
+> - Business logic scripting for transformation layers
+
+---
+
+### 🔹 [Azure Projects](https://github.com/shivam1908?tab=repositories&q=azure)
+☁️ Full-stack, cloud-native analytics workflows using Synapse, Databricks, and Lakehouse architecture  
+> Projects include:  
+> - **NYC Taxi Lakehouse Pipeline** – Medallion architecture with Delta Lake, Serverless SQL, and cost-optimized querying  
+> - **Formula 1 Analytics** – Azure Databricks + PySpark pipeline with interactive Power BI reports via Gold layer
+
+➡️ Pipelines are orchestrated with notebook chaining, parameterization, and monitoring using Azure-native tools.
+
+---
+
 
 ## 📫 Let's Connect
 
